@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Sardor */
 
 /* Sardor */
@@ -5,39 +6,43 @@
 
 /* Islom */
 .section-flex11 {
-    width: 1440px;
-    height: 1028px;
-    top: 1178px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 2rem auto;
-    gap: 93px;
+  width: 1440px;
+  height: 1028px;
+  top: 1178px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem auto;
+  gap: 93px;
 }
+
 .section-flex77 {
-    width: 1440px;
-    height: 599px;
-    top: 1906px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
-    gap: 93px;
+  width: 1440px;
+  height: 599px;
+  top: 1906px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  gap: 93px;
 }
-.text h1 {
-    color: rgba(15, 15, 15, 1);
-    font-size: 38px;
-    width: 500px;
-height: 92px;
+
+.texte h1 {
+  color: rgba(15, 15, 15, 1);
+  font-size: 38px;
+  width: 500px;
+  height: 92px;
 }
-.text p {
-    color: rgba(15, 15, 15, 1);
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 27px;
-    width: 493px;
-    height: 135px;
+
+.texte p {
+  color: rgba(15, 15, 15, 1);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  width: 493px;
+  height: 135px;
 }
+
 /* Islom */
 
 
@@ -45,7 +50,8 @@ height: 92px;
 .section2 {
   margin: 0;
   font-family: sans-serif;
-  background-color: #1d4a7a; /* fon rangi rasmga mos */
+  background-color: #1d4a7a;
+  /* fon rangi rasmga mos */
 }
 
 .testimonial {
@@ -90,60 +96,178 @@ height: 92px;
 
 /* Sunnatilla */
 
+.sunnattilla-course {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.sunnattilla-frame {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+
+
+
+}
+
+.sunnattilla-frame button {
+
+  color: #464646;
+}
+
+.sunnattilla-word h2 {
+  font-size: 38px;
+  margin-left: 120px;
+  margin-bottom: 80px;
+
+
+
+}
+
+.sunnattilla-btn {
+  width: 600px;
+  height: 60px;
+  font-size: 19px;
+}
+
+.sunnattilla-btn2 {
+  width: 600px;
+  height: 60px;
+  font-size: 19px;
+}
+
+.sunnattilla-btn3 {
+  width: 600px;
+  height: 60px;
+  font-size: 19px;
+}
+
+.sunnattilla-btn4 {
+  width: 600px;
+  height: 60px;
+  font-size: 19px;
+}
+
+.sunnattilla-btn5 {
+  width: 600px;
+  height: 60px;
+  font-size: 19px;
+}
+
+.sunnattilla-btn6 {
+  width: 600px;
+  height: 60px;
+  font-size: 19px;
+}
+
+.sunnattilla-box {
+  background-color: #87CDFF;
+  width: 59px;
+  height: 59px;
+  margin-top: 900px;
+  margin-left: 170px;
+
+
+}
+
+.sunnattilla-rectangle {
+  /* align-items: center; */
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px
+}
+
+.sunnattilla-word2 {
+  font-size: 30px;
+  margin-left: 260px;
+}
+
+.sunnattilla-frame2 {
+  display: flex;
+  gap: 80px;
+  margin-left: 265px;
+
+}
+
+.sunnattilla-frame2 p {
+  font-size: 15px;
+}
+
+.sunnattilla-frame3 {
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+}
+
 /* Sunnatilla */
 
 
 /* Oybek */
 .container {
-    max-width: 1400px;
-    margin: 0 auto;
+  max-width: 1400px;
+  margin: 0 auto;
 }
-.section_box{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+
+.section_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
-.section_box h2{
-    font-size: 38px;
-    font-weight: 700;
+
+.section_box h2 {
+  font-size: 38px;
+  font-weight: 700;
 }
-.cardes{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 32px;
+
+.cardes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
 }
-.cards1{
-    gap: 30px;
+
+.cards1 {
+  gap: 30px;
 }
-.card_one{
-    margin-top: 32px;
-    background: #EDEDED;
-    width: 355px;
-    border-radius: 10px;
-    padding: 32px;
+
+.card_one {
+  margin-top: 32px;
+  background: #EDEDED;
+  width: 355px;
+  border-radius: 10px;
+  padding: 32px;
 }
-.star{
-    color: #E48D8B;
+
+.star {
+  color: #E48D8B;
 }
-.card_pi{
-    margin-top: 26px;
-    width: 283px;
+
+.card_pi {
+  margin-top: 26px;
+  width: 283px;
 }
-.card_one p{
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
+
+.card_one p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
 }
-.coment{
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    margin-top: 20px;
+
+.coment {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 20px;
 }
-.coment img{
-    width: 48px;
-    height: 48px;
+
+.coment img {
+  width: 48px;
+  height: 48px;
 }
+
 /* Oybek */
