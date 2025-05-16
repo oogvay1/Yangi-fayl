@@ -1,0 +1,93 @@
+.sunnattilla-course{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.sunnattilla-frame{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+    
+    
+    
+}
+.sunnattilla-frame button{
+    
+   color: #464646;
+}
+.sunnattilla-word h2{
+   font-size: 38px; 
+   margin-left: 120px;
+   margin-bottom: 80px;
+  
+   
+   
+}
+.sunnattilla-btn{
+   width: 600px;
+   height: 60px;
+   font-size: 19px;
+}
+
+.sunnattilla-btn2{
+    width: 600px;
+    height: 60px;
+    font-size: 19px;
+}
+.sunnattilla-btn3{
+    width: 600px;
+   height: 60px;
+   font-size: 19px;
+}
+.sunnattilla-btn4{
+    width: 600px;
+   height: 60px;
+   font-size: 19px; 
+}
+.sunnattilla-btn5{
+    width: 600px;
+   height: 60px;
+   font-size: 19px;
+}
+.sunnattilla-btn6{
+    width: 600px;
+   height: 60px;
+   font-size: 19px;
+}
+.sunnattilla-box{
+    background-color: #87CDFF   ;
+    width: 59px;
+    height: 59px;
+    margin-top: 900px;
+    margin-left: 170px;
+    
+    
+}
+.sunnattilla-rectangle{
+    /* align-items: center; */
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px
+    
+}
+.sunnattilla-word2{
+    font-size: 30px;
+    margin-left: 260px;
+}
+.sunnattilla-frame2{
+    display: flex;
+    gap: 80px;
+    margin-left:265px ;
+   
+}
+.sunnattilla-frame2 p{
+    font-size: 15px;
+}
+.sunnattilla-frame3{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+}
