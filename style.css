@@ -9,6 +9,48 @@
 
 
 /* Inomjon */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #1d4a7a; /* fon rangi rasmga mos */
+}
+
+.testimonial {
+  text-align: center;
+  color: white;
+  max-width: 700px;
+  margin: 100px auto;
+  padding: 20px;
+}
+
+.quote-icon {
+  font-size: 48px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.highlight {
+  color: #ea868f;
+}
+
+.photo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-size: 14px;
+}
 
 /* Inomjon */
 
