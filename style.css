@@ -4,21 +4,45 @@
 
 
 /* Islom */
-.section-flex11{
-    width: 1440px;
-height: 1028px;
-top: 1178px;
-}
 .section-flex11 {
-    text-align: end;
+    width: 1440px;
+    height: 1028px;
+    top: 1178px;
     display: flex;
-    justify-content: space-between;
-    width: 500px;
-    height: 92px;
-    font-size: 38px;
-    color: rgba(15, 15, 15, 1);
+    justify-content: center;
     align-items: center;
+    margin: 2rem auto;
+    gap: 93px;
 }
+
+.section-flex77 {
+    width: 1440px;
+    height: 599px;
+    top: 1906px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    gap: 93px;
+}
+
+
+.text h1 {
+    color: rgba(15, 15, 15, 1);
+    font-size: 38px;
+    width: 500px;
+height: 92px;
+}
+
+.text p {
+    color: rgba(15, 15, 15, 1);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    width: 493px;
+    height: 135px;
+}
+
 /* Islom */
 
 
