@@ -1,4 +1,127 @@
 /* Sardor */
+/* Umumiy sozlamalar */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.sardor1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.sardor2 {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.sardor3 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.sardor4 {
+  background-color: #f66;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.sardor5 {
+  padding: 40px;
+}
+
+.sardor6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.sardor7 {
+  flex: 1;
+  min-width: 300px;
+}
+
+.sardor7 h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.sardor7 p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.sardor8 {
+  margin-bottom: 20px;
+}
+
+.sardor9 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+.sardor10 {
+  font-size: 20px;
+  text-decoration: line-through;
+  color: #999;
+  margin-left: 10px;
+}
+
+.sardor11 {
+  display: flex;
+  gap: 15px;
+}
+
+.sardor12 {
+  background-color: #f66;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.sardor13 {
+  background-color: #eee;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #000;
+  border-radius: 5px;
+}
+
+.sardor14 {
+  flex: 1;
+  position: relative;
+  min-width: 300px;
+}
+
+.sardor15 {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.sardor16 {
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  font-size: 32px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+}
 
 /* Sardor */
 
